@@ -12,7 +12,7 @@ ARM7 processor is commonly used in embedded system applications. Also, it is a b
 interfaces Datasheet - production data Features
 • Core: ARM® 32-bit Cortex®-M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™) allowing 0-wait state execution from Flash memory, frequency up to 84 MHz, memory protection unit, 105 DMIPS/ 1.
 25 DMIPS/MHz (Dhrystone 2.
-1), and DSP instructions
+and DSP instructions
 • Memories – Up to 256 Kbytes of Flash memory – Up to 64 Kbytes of SRAM
 
 
